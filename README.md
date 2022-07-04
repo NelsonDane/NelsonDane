@@ -2,7 +2,7 @@
 - 🏫 I'm a student at Clarkson University<br>
 - 📜 I'm pursuing a BS in Computer Engineering, as well as a minor in Software Engineering<br>
 - 🙂 I’m interested in Python, Docker, Automation, and a whole lot more!<br>
-- 👀 Feel free to browse my wide variety of personal projects, as well as school assignments I'm proud of.<br><br>
+- 👀 Feel free to browse my wide variety of personal projects, as well as school assignments I'm proud of<br><br>
 
 <h3>📈 My Github Stats</h3>
 

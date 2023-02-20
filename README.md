@@ -10,9 +10,9 @@
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonDane&count_private=true&show_icons=true&theme=graywhite)
   
-<h3>🏅 CodersRank</h3>
-  
-[![Nelson's CodersRank skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nelsondane&height=100)](https://profile.codersrank.io/user/nelsondane/)
+<!-- <h3>🏅 CodersRank</h3>
+   -->
+<!-- [![Nelson's CodersRank skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nelsondane&height=100)](https://profile.codersrank.io/user/nelsondane/) -->
 
 <!---
 NelsonDane/NelsonDane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,8 @@
 <h1>👋 Hello World, I’m @NelsonDane</h1>
-- 🏫 I'm a student at Clarkson University<br>
-- 📜 I'm pursuing a BS in Computer Engineering, as well as minors in Software Engineering and Mathematics<br>
-- 🙂 I’m interested in Python, Docker, Automation, and a whole lot more!<br>
+- 💻 I work as a professional Software Engineer<br>
+- 🏫 I'm a graduate of Clarkson University<br>
+- 📜 I'm have a BS in Computer Engineering, as well as minors in Software Engineering and Mathematics<br>
+- 🙂 I’m interested in Linux, Python, Kubernetes/Docker, Automation, and a whole lot more!<br>
 - 👀 Feel free to browse my wide variety of personal projects and explorations<br><br>
 
 <h3>📈 My Github Stats</h3>
